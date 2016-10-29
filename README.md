@@ -1,1 +1,3 @@
-# angular2_one
+### Angular Documentation Example 
+
+Tour of Heroes: Part 6
